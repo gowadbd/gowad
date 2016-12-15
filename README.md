@@ -1,4 +1,4 @@
-شرح تنصيب بوت TP BOT 
+شرح تنصيب بوت gowad 
 من احدث اقوا بوتات التلي 
 سورس عربي انكلش
 تابع الشرح......⤵️
@@ -17,13 +17,13 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 وراها ⤵️
 
-git clone https://github.com/ibr773/TPBOT.git
+git clone https://github.com/gowadbd/gowad.git
 
 🔺-----------------------------------------------🔻
 
 وراها ⤵️
 
-cd TPBOT
+cd gowad
 
 🔺-----------------------------------------------🔻
 
@@ -53,5 +53,4 @@ redis-server
 
 🔺-----------------------------------------------🔻
 
--Dev kasper TP (BY @kasper_dev )
--TP TEAM @Dev_kasper
+-Dev : @Gowadbd
